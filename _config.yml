@@ -1,11 +1,11 @@
 # Site settings
 author: Aglae Verduzco
-title: 
+title: Fun-coding
 header-img: img/home-bg.png
 email: aglae.cv@gmail.com
 copyright_name: Aglae Verduzco
 description: > # this means to ignore newlines until "baseurl:"
-  
+  newtocoding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Aglaevdz
